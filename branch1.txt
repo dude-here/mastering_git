@@ -1,0 +1,2 @@
+barnch1 file and this is first commit i did here in this sub branch nd in this file too
+creating changes in Github direcly on branch1 and committing it
